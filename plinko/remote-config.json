@@ -1,5 +1,5 @@
 {
- "startingChips": 1234,
+ "startingChips": 1000,
  "aimInfluence": 0.15000000596046448,
  "freeChipsAmount": 250,
  "freeChipsCooldownSeconds": 60,
